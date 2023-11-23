@@ -1,0 +1,17 @@
+[
+  {
+    "directory": ".",
+    "command": "g++ -Wall -Iinclude -c -o obj/Track.o src/Track.cpp",
+    "file": "src/Track.cpp"
+  },
+  {
+    "directory": ".",
+    "command": "g++ -Wall -Iinclude -c -o obj/main.o src/main.cpp",
+    "file": "src/main.cpp"
+  },
+  {
+    "directory": ".",
+    "command": "g++ -Wall -Iinclude -c -o obj/Playlist.o src/Playlist.cpp",
+    "file": "src/Playlist.cpp"
+  }
+]
