@@ -40,7 +40,7 @@ int main()
     }
 
     // Remove a track from the playlist
-    myPlaylist.removeTrack(&track2);
+    // myPlaylist.removeTrack(&track2);
 
     return 0;
 }
